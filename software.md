@@ -13,7 +13,7 @@ To download the file for installation on your Raspberry Pi type the following in
 
 ```Bash
 wget http://goo.gl/M9CERY -O kidsruby.deb
-``
+```
 Once downloaded keep the terminal window open and type in the following
 ```Bash
 sudo dpkg -i kidsruby.deb
