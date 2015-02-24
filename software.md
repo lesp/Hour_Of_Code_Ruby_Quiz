@@ -12,11 +12,11 @@ To install Kids Ruby on your Raspberry Pi you will need to open a terminal, you 
 To download the file for installation on your Raspberry Pi type the following into the terminal
 
 ```Bash
-wget https://s3.amazonaws.com/kidsruby/raspbian/kidsruby-1.3.2-armv6l.deb
-```
+wget http://goo.gl/M9CERY -O kidsruby.deb
+``
 Once downloaded keep the terminal window open and type in the following
 ```Bash
-sudo dpkg -i kidsruby-1.3.2-armv6l.deb
+sudo dpkg -i kidsruby.deb
 ```
 ![Image of the LXTerminal running the installation command](images/1.png)
 
