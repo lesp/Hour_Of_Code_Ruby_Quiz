@@ -137,7 +137,7 @@ Putting this all together it looks like this
 ![Animation of the quiz sequence](images/quiz.gif)
 
 Remember to save your work and when ready click on the **Run** button to start your quiz game.
-
+## What's next
 **Well done! You have made a quiz game using Ruby**
 
 If you would like to learn more about Kids Ruby why not explore the great games and ideas already built in via Hackety-Hack, Ruby Warrior or Make Games with Gosu
